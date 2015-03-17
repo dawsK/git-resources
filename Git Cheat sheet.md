@@ -31,4 +31,5 @@
  * git-tf plugin - [https://gittf.codeplex.com/](https://gittf.codeplex.com/)
  * git-svn - [https://www.kernel.org/pub/software/scm/git/docs/git-svn.html](https://www.kernel.org/pub/software/scm/git/docs/git-svn.html)
  * GitHub for Windows - [https://windows.github.com/](https://windows.github.com/)
+ * This document - [https://github.com/dawsK/git-resources](https://github.com/dawsK/git-resources)
  
