@@ -1,9 +1,4 @@
-# Git Resources
-
-Resources for learning git. Checkout the [Git Cheat Sheet](Git Cheat sheet.md) and 
-[Getting Started With Git](Getting Started With Git.md).
-
-### Git Cheat Sheet ###
+# Git Cheat Sheet #
 
 | Scenario                              | Commands
 |---------------------------------------|---------------------------------------------------------------
@@ -28,7 +23,7 @@ Resources for learning git. Checkout the [Git Cheat Sheet](Git Cheat sheet.md) a
 | Stash changes                         | `git stash`
 | Unstash changes                       | `git stash pop`
 
-### Resources ###
+## Resources ##
 
  * Readable Git Documentation - [http://git-scm.com/](http://git-scm.com/)
  * Try Git tutorial - [https://try.github.io/](https://try.github.io/)
@@ -36,3 +31,4 @@ Resources for learning git. Checkout the [Git Cheat Sheet](Git Cheat sheet.md) a
  * git-tf plugin - [https://gittf.codeplex.com/](https://gittf.codeplex.com/)
  * git-svn - [https://www.kernel.org/pub/software/scm/git/docs/git-svn.html](https://www.kernel.org/pub/software/scm/git/docs/git-svn.html)
  * GitHub for Windows - [https://windows.github.com/](https://windows.github.com/)
+ 
