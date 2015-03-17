@@ -1,6 +1,6 @@
 # Git Resources
 
-Resources for learning git. Checkout the [Git Cheat Sheet](Git Cheat sheet.md) and 
+Resources for learning git. Checkout [Git Cheat Sheet](Git Cheat sheet.md) and 
 [Getting Started With Git](Getting Started With Git.md).
 
 ### Git Cheat Sheet ###
@@ -36,3 +36,4 @@ Resources for learning git. Checkout the [Git Cheat Sheet](Git Cheat sheet.md) a
  * git-tf plugin - [https://gittf.codeplex.com/](https://gittf.codeplex.com/)
  * git-svn - [https://www.kernel.org/pub/software/scm/git/docs/git-svn.html](https://www.kernel.org/pub/software/scm/git/docs/git-svn.html)
  * GitHub for Windows - [https://windows.github.com/](https://windows.github.com/)
+ * This document - [https://github.com/dawsK/git-resources](https://github.com/dawsK/git-resources)
